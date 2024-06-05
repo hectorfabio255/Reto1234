@@ -1,1 +1,13 @@
+button {
+  background-color: #FF6384; /* Rosa */
+  color: white;
+  padding: 15px 30px;
+  border: 2px solid #FFC107; /* Borde naranja */
+  border-radius: 5px; /* Esquinas redondeadas */
+  font-family: Arial, sans-serif;
+  text-transform: uppercase; /* Texto en mayúsculas */
+}
 
+button:hover {
+  background-color: #FF385D; /* Rosa más oscuro */
+}
